@@ -1,0 +1,9 @@
+Building BccCash
+
+See doc/readme-qt.rst for instructions on building BccCash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BccCash.
+
+See doc/build-*.txt for instructions on building bcccashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BccCash.
